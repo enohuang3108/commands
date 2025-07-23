@@ -1,3 +1,8 @@
+---
+description: Write git commit message
+allowed-tools: Bash, Read, Grep, LS
+---
+
 # Claude Command: Commit
 
 This command helps you create well-formatted commits with conventional commit messages and emoji.
